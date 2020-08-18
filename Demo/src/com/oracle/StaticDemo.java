@@ -7,9 +7,7 @@ static	String ceo;
 public Emp() {
 	
 	
-	rollno=85;
-	salary=84433;
-	ceo="nana";
+	
 }
 	public   void show() {
 		System.out.println(rollno+":"+salary+":"+ceo);
