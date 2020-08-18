@@ -4,13 +4,9 @@ class Emp{
 	double salary;
 	
 static	String ceo;
-public Emp() {
-	
-	
-	
-}
+
 	public   void show() {
-		System.out.println(rollno+":"+salary+":"+ceo);
+		
 	}
 }
 public class StaticDemo{
